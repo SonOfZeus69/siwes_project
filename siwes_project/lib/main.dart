@@ -20,7 +20,6 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ProjectTheme.materialTheme(context),
       debugShowCheckedModeBanner: false,
-
       home: const OnboardingPage(),
 
     );
