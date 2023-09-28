@@ -20,11 +20,9 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ProjectTheme.materialTheme(context),
       debugShowCheckedModeBanner: false,
-<<<<<<< HEAD
-      home: const SignIn(), //You can change it back when you're done
-=======
+
       home: const OnboardingPage(),
->>>>>>> upstream/main
+
     );
   }
 }
